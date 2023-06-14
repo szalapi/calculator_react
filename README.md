@@ -2,7 +2,11 @@
 
 This codebase implements a Calculator using ReactJs.
 
+![The Calculator application](./assets/application.png)
+
 ## How to Run
+
+> 📝 This repository uses git-lfs to manage large and binary files (like the image above). In case you do not see this image locally, please run `git lfs pull`
 
 Please use `npm i` followed by `npm start` to run the application in the development mode:
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
